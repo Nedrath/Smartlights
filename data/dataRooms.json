@@ -1,0 +1,40 @@
+{
+  "rooms": [
+    {
+      "id": "room1",
+      "icon": "http://localhost:1234/img/bed.svg",
+      "name": "Bed room",
+      "lights": "4 Lights"
+    },
+    {
+      "id": "room2",
+      "icon": "/img/room.svg",
+      "name": "Living room",
+      "lights": "2 Lights"
+    },
+    {
+      "id": "room3",
+      "icon": "http://localhost:1234/img/kitchen.svg",
+      "name": "Kitchen",
+      "lights": "5 Lights"
+    },
+    {
+      "id": "room4",
+      "icon": "http://localhost:1234/img/bathtube.svg",
+      "name": "Bathroom",
+      "lights": "1 Lights"
+    },
+    {
+      "id": "room5",
+      "icon": "http://localhost:1234/img/house.svg",
+      "name": "Outdoor",
+      "lights": "5 Lights"
+    },
+    {
+      "id": "room6",
+      "icon": "http://localhost:1234/img/balcony.svg",
+      "name": "Balcony",
+      "lights": "2 Lights"
+    }
+  ]
+}

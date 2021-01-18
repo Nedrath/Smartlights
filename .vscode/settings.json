@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  // dette gør at de ting der bliver skrevet her inde ikke bliver vist i vscode vinduet, men de er der stadig
+  "files.exclude": {
+    ".cache": true,
+    "node_modules": true,
+    "dist": false
+    // "eslintrc.json":true,
+    // ".prettierrc":true,
+    // "package-lock.json":true
+  }
+}
